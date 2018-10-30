@@ -13,7 +13,6 @@ def demo_run_multi(a, b, c):
     time.sleep(1)
 
 
-
 def one_param():
     # 线程会遍历str_中的内容
     str_ = ['11', '22', 'aa']
